@@ -1,0 +1,16 @@
+C:\Users\Yonet\PycharmProjects\pythonProject4\venv\Scripts\pyuic5.exe -x C:\Users\Yonet\Desktop\designerUI\name.ui -o C:\Users\Yonet\PycharmProjects\pythonProject4\name.py
+
+python -m auto_py_to_exe
+
+C:\Users\Yonet\PycharmProjects\pythonProject4\venv\Scripts\pyuic5.exe -x C:\Users\Yonet\Desktop\designerUI\name.ui -o C:\Users\Yonet\PycharmProjects\pythonProject4\name.py
+
+pyrcc5 resources.qrc -o resources_rc.py
+
+C:\Users\Yonet\PycharmProjects\pythonProject4\venv\Scripts\pyrcc5.exe  C:\Users\Yonet\PycharmProjects\pythonProject4\icon\chrome.qrc -o C:\Users\Yonet\PycharmProjects\pythonProject4\icon\chrome_rc.py
+
+
+C:\\Drivers\\chromedriver_win32\\chromedriver.exe
+C:\\Drivers\\edgedriver_win64\\msedgedriver.exe
+C:\\Users\\Yonet\\Downloads
+https://portal.defterbeyan.gov.tr/auth/login
+https://portal.trendyolefaturam.com/TRY/Login/index.html?returnUrl=/NetInvoice/EArchiveOutboxReported.aspx

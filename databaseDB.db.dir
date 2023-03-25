@@ -1,0 +1,8 @@
+'chrome_driver_path', (0, 10)
+'edge_driver_path', (512, 10)
+'gib_kullanici_adi', (1024, 10)
+'gib_sifre', (1536, 10)
+'indirilen_path', (2048, 10)
+'gib_link', (2560, 10)
+'trendyol_panel_link', (3072, 10)
+'browsers', (3584, 23)
